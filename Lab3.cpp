@@ -29,8 +29,8 @@ int main(int argc, char * const argv[]){
 						printf("Arg: short help\n");
 					else
 						printf("Arg: long help\n");
-				h_count ++;
     			};
+                h_count ++;
     			break;
     		};
     		case 'i': {
